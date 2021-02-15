@@ -3,7 +3,7 @@ https://e.coinbae.org
 
 ## API
 
-[HTTP Protocol](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/HTTP-Protocol.md) and [Websocket Protocol](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/WebSocket-Protocol.md) documents are available in English. 
+[HTTP Protocol](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/blob/main/HTTP-Protocol.md) and [Websocket Protocol](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/blob/main/WebSocket-Protocol.md) documents are available in English. 
 
 ### Third-party Clients
 
