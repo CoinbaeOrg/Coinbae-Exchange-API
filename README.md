@@ -29,8 +29,10 @@ To use this method you need to get an authorization token:
 ```
 
 Example response: 
-`{
-Result	"Success"
-Status	1
-Userid	"asd123asd123asd123asd123asd123asd123asd123asd123asd123asd123"
-`
+```
+{
+  Result	"Success"
+  Status	1
+  Userid	"asd123asd123asd123asd123asd123asd123asd123asd123asd123asd123"
+}
+```
