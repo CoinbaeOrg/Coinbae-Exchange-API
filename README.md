@@ -6,7 +6,7 @@
 ### Third-party Clients
 
 - [Python3 API realisation](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/python-api)
-- [Ruby Gem 💎](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/ruby-api)
+
 
 ## Authorization
 
