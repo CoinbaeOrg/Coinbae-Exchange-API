@@ -207,25 +207,7 @@ General error code:
 "result": {"BTC": {"available": "1.10000000","freeze": "9.90000000"}}
 ```
 
-**Asset change**
-* method: `balance.update`
-* params: 
-1. user_token: user authorization token, String
-2. asset: asset name，String
-3. business: business type，String
-4. business_id: business ID，Integer, but it will only succeed once with multiple operations of the same user, asset, business or business_id
-5. change: balance change，String, negative numbers for deduction
-6. detail: Json object，attached information
-* result: "success"
-* error code:
-10. repeat update
-11. balance not enough
-* example: 
 
-```
-"params": [1, "BTC", "deposit", 100, "1.2345"]
-"result": "success"
-```
 
 **Asset history**
 * method: `balance.history`
