@@ -7,7 +7,7 @@ https://e.coinbae.org
 
 ### Third-party Clients
 
-- [Python3 API realisation](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/python-api)
+- [Python3 API realisation](https://github.com/CoinbaeOrg/Coinbae-Exchange-API/tree/main/python-api)
 
 
 ## Authorization
