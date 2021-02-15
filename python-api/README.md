@@ -4,7 +4,7 @@
 The basic usage:
 
 ``` python
-import Coinbae
+import client
 
 exchange_url = "https://e.coinbae.org/api"
 api = Coinbae(exchange_url)
