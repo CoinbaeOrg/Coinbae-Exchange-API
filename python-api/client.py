@@ -141,4 +141,3 @@ class Coinbae(object):
 
     def market_summary(self, market):
         return self._execute("market.summary", [market])
-    
